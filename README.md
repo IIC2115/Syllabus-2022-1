@@ -21,20 +21,20 @@
 <summary>Capítulo 0</summary>
 <br>
 
-| Capítulo |	Instancia  | Fecha         | Módulo | Recursos |
-| :-:      | :-:          | :-:           | :-:    | :-:      |
-| 0        | Introducción | Lunes 07/03   | 4      |  Slides |
+| Capítulo |	Instancia  | Fecha         | Recursos |
+| :-:      | :-:          | :-:           | :-:      |
+| 0        | Introducción | Lunes 07/03   | [Slides](../../blob/master/Material%20de%20clases/Introducción.pdf) |
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 1</summary>
 <br>
 
 | Capítulo |	Instancia     | Fecha        | Recursos |
 | :-:      | :-:             | :-:          | :-:      |
-| 1        | Cátedra parte a | Lunes 14/03  | Slides - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicios|
-| 1        | Cátedra parte a | Lunes 21/03  | Slides - Material - Ejercicios|
+| 1        | Cátedra parte a | Lunes 14/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicios|
+| 1        | Cátedra parte a | Lunes 21/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - Ejercicios|
 | 1        | Laboratorio 1   | Lunes 28/03 a Lunes 04/04 | Enunciado |
 </details>
 
