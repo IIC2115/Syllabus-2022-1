@@ -7,43 +7,38 @@
 1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
 
 
-
 ## Evaluación
 
-1. Las evaluaciones serán efectuadas por medio de actividades prácticas, laboratorios y participación (talleres). Se calculará la nota del curso **N** como:
+1. Las evaluaciones serán efectuadas por medio de laboratorios y participación en clases. Se calculará la nota del curso **N** como:
 
-    **N = 0,5 x A + 0,3 x L + 0,2 x P**
+    **N = 0,8 x L + 0,2 x P**
 
-    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio talleres evaluables).
+    Donde **L** el promedio de los laboratorios y **P** es la nota de participación.
 
 
 ## Calendario 
-<details>
-<summary>Introducción</summary>
+<details open>
+<summary>Capítulo 0</summary>
 <br>
 
-| Capítulo |	Instancia             | Plataforma | Fecha         | Módulo | Recursos |
-| :-:      | :-:                     | :-:        | :-:           | :-:    | :-:      |
-| -        | Introducción            |  Zoom      | Lunes 16/08   | 4      | [Video](https://youtu.be/RC7LoZ0vef4) - [Slides](../../blob/main/Material%20de%20clases/Introducción.pdf) |
-| -        | Ayudantía introductoria |  Zoom      | Jueves 19/08  | 5      | [Video](https://youtu.be/rAsvolgqnxs) |
+| Capítulo |	Instancia  | Fecha         | Módulo | Recursos |
+| :-:      | :-:          | :-:           | :-:    | :-:      |
+| 0        | Introducción | Lunes 07/03   | 4      |  Slides |
 </details>
-   
+
+
 <details>
 <summary>Capítulo 1</summary>
 <br>
 
-| Capítulo |	Instancia     | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
-| 1        | Resumen parte a |  Zoom    | Lunes 23/08  | 4      | [Video](https://youtu.be/o3HpASUOtEg) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) |
-| 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
-| 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | [Video](https://youtu.be/1ehYI45-JWA) - [Slides](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantia%20T1a.pdf) - [Código](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantía%20T1a.ipynb) |
-| 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | [Video](https://youtu.be/V-C5Lupjoys) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos%20básicas.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
-| 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | [Enunciado](../../blob/main/Talleres/T1b/T1b.pdf) |
-| 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | [Video](https://youtu.be/rXF0UU6haPg) - [Código](../../blob/main/Ayudant%C3%ADas/T1b/Ayudant%C3%ADa%20T1b.ipynb) |
-| 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A1/A1.pdf) |
+| Capítulo |	Instancia     | Fecha        | Recursos |
+| :-:      | :-:             | :-:          | :-:      |
+| 1        | Cátedra parte a | Lunes 14/03  | Slides - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicios|
+| 1        | Cátedra parte a | Lunes 21/03  | Slides - Material - Ejercicios|
+| 1        | Laboratorio 1   | Lunes 28/03 a Lunes 04/04 | Enunciado |
 </details>
 
-
+<!--
 <details>
 <summary>Capítulo 2</summary>
 <br>
@@ -112,20 +107,12 @@
 | 5        | Actividad práctica   |  Híbrida   | Lunes 06/12  | 4-5    | Enunciado |
 
 </details>
-   
-<!--
+-->   
 
-| -        | Feriado     |  -      | Jueves 24/06 | -      | -  |
-| -        | Feriado              |  -         | Lunes 28/06  | -      | - |
-| 5        | Ayudantía preparación A5    |  Zoom      | Jueves 01/07 | 5      | [Video](https://youtu.be/1IafpcV-9YI) - [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Enunciado_Ay_C5.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Ay_C5.ipynb) |
-| 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A5/A5.pdf) |
-| 4        | Entrega L2           | -          | Viernes 16/07 | -      |           |
-
--->
 
 
 ## Notas
-Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
+Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
 
 
 ## Entregas atrasadas de laboratorios
@@ -160,3 +147,4 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 * [Syllabus 2020-1](https://github.com/IIC2115/Syllabus-2020-1)
 * [Syllabus 2020-2](https://github.com/IIC2115/Syllabus-2020-2)
 * [Syllabus 2021-1](https://github.com/IIC2115/Syllabus-2021-1)
+* [Syllabus 2021-2](https://github.com/IIC2115/Syllabus-2021-2)
