@@ -31,11 +31,11 @@
 <summary>Capítulo 1</summary>
 <br>
 
-| Capítulo |	Instancia     | Fecha        | Recursos |
-| :-:      | :-:             | :-:          | :-:      |
-| 1        | Cátedra parte a | Lunes 14/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicios|
-| 1        | Cátedra parte a | Lunes 21/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - Ejercicios|
-| 1        | Laboratorio 1   | Lunes 28/03 a Lunes 04/04 | Enunciado |
+| Capítulo |	Instancia     |Tópico                | Fecha        | Recursos |
+| :-:      | :-:             | :-:                  | :-:          | :-:      |
+| 1        | Cátedra parte a | OOP                  | Lunes 14/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicios|
+| 1        | Cátedra parte a | Estructuras de datos |Lunes 21/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - Ejercicios|
+| 1        | Laboratorio 1   | -                    |Lunes 28/03 a Lunes 04/04 | Enunciado |
 </details>
 
 <!--
