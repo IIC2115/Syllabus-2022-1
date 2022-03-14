@@ -33,7 +33,7 @@
 
 | Capítulo |	Instancia     |Tópico                | Fecha        | Recursos |
 | :-:      | :-:             | :-:                  | :-:          | :-:      |
-| 1        | Cátedra parte a | OOP                  | Lunes 14/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - Ejercicio - [Ticket](https://forms.gle/kpV6rjuSoW4woL4dA)|
+| 1        | Cátedra parte a | OOP                  | Lunes 14/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20a/Ejercicios/C1a.pdf) - [Ticket](https://forms.gle/kpV6rjuSoW4woL4dA)|
 | 1        | Cátedra parte b | Estructuras de datos |Lunes 21/03  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - Ejercicio |
 | 1        | Laboratorio 1   | -                    |Lunes 28/03 a Lunes 04/04 | Enunciado |
 </details>
