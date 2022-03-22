@@ -34,7 +34,7 @@
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
 | Cátedra parte a   | OOP                  | Lunes 14/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20a/Ejercicios/C1a.pdf) - [Ticket](https://forms.gle/kpV6rjuSoW4woL4dA)|
-| Ayudantía parte a | OOP                  | Jueves 17/03  | Código | 
+| Ayudantía parte a | OOP                  | Jueves 17/03  | [Slides](../../blob/master/Ayudantías/C1a/Ayudantía%20C1a.pdf) - [Código](../../tree/master/Ayudantías/C1a)| 
 | Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
 | Ayudantía parte b | Estructuras de datos | Jueves 24/03  | Código | 
 | Laboratorio 1     | -                    | Lunes 28/03 a Lunes 04/04 | Enunciado |
