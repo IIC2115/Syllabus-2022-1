@@ -17,7 +17,7 @@
 
 
 ## Calendario 
-<details open>
+<details>
 <summary>Capítulo 0</summary>
 <br>
 
@@ -27,7 +27,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 1</summary>
 <br>
 
@@ -37,27 +37,25 @@
 | Ayudantía parte a | POO                  | Jueves 17/03  | [Slides](../../blob/master/Ayudantías/C1a/Ayudantía%20C1a.pdf) - [Código](../../tree/master/Ayudantías/C1a)| 
 | Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
 | Ayudantía parte b | Estructuras de datos | Jueves 24/03  | [Slides](../../blob/master/Ayudantías/C1b/Ayudantía%20C1b.pdf) - [Código](../../tree/master/Ayudantías/C1b) | 
-| Laboratorio 1     | POO y EDD            | Lunes 28/03 a Lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28)|
+| Laboratorio 1     |                      | Lunes 28/03 a Lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28)|
 </details>
 
-<!--
-<details>
+
+<details open>
 <summary>Capítulo 2</summary>
 <br>
    
-| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 2        | Resumen parte a      |  Zoom      | Lunes 13/09  | 4      | [Video](https://youtu.be/-DwLCdguUwQ) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
-| 2        | Taller parte a       |  Discord   | Lunes 13/09  | 5      | [Enunciado](../../blob/main/Talleres/T2a/T2a.pdf) |
-| 2        | Ayudantía parte a    |  Zoom      | Jueves 16/09 | 5      | [Video](https://youtu.be/qwBlPo2TJDQ) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ayudant%C3%ADa%20T2a.ipynb) |
-| 2        | Resumen parte b      |  Zoom      | Lunes 20/09  | 4      | [Video](https://youtu.be/qcD1piX0bCg) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Técnicas%20y%20Algoritmos.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
-| 2        | Taller parte b       |  Discord   | Lunes 20/09  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
-| 2        | Ayudantía parte b    |  Zoom      | Jueves 23/09 | 5      | [Video](https://youtu.be/7k26wATkaP4) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ayudant%C3%ADa%20T2b.ipynb) |
-| 2        | Actividad práctica   |  Discord   | Lunes 27/09  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A2/A2.pdf) |
-| 2        | Lectura enunciado L1 |  Zoom      | Jueves 30/09 | 5      | [Video](https://youtu.be/HUCHMV3LwYk) - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
-
+| Instancia         | Tópico                            | Fecha        | Recursos |
+| :-:               | :-:                               | :-:          | :-:      |
+| Cátedra parte a   | Análisis y visualización de datos | Lunes 11/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20a) - Ejercicio - Ticket |
+| Ayudantía parte a | Análisis y visualización de datos | Jueves 14/04 | Slides - Código| 
+| Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - Ejercicio - Ticket |
+| Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | Slides - Código | 
+| Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | Enunciado - Ticket |
 </details>
 
+</details>
+<!--
 <details>
 <summary>Capítulo 3</summary>
 <br>
