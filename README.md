@@ -47,7 +47,7 @@
    
 | Instancia         | Tópico                            | Fecha        | Recursos |
 | :-:               | :-:                               | :-:          | :-:      |
-| Cátedra parte a   | Análisis y visualización de datos | Lunes 11/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20a) - Ejercicio - Ticket |
+| Cátedra parte a   | Análisis y visualización de datos | Lunes 11/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20a) - Ejercicio - [Ticket](https://forms.gle/oajcd1VoZsEEyYbv5) |
 | Ayudantía parte a | Análisis y visualización de datos | Jueves 14/04 | Slides - Código| 
 | Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - Ejercicio - Ticket |
 | Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | Slides - Código | 
