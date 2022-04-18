@@ -48,8 +48,8 @@
 | Instancia         | Tópico                            | Fecha        | Recursos |
 | :-:               | :-:                               | :-:          | :-:      |
 | Cátedra parte a   | Análisis y visualización de datos | Lunes 11/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Ejemplos](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.ipynb) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20a) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Ejercicios/C2a.pdf) - [Ticket](https://forms.gle/oajcd1VoZsEEyYbv5) |
-| Ayudantía parte a | Análisis y visualización de datos | Jueves 14/04 | Slides - Código| 
-| Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - Ejercicio - Ticket |
+| Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
+| Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - Ejercicio - Ticket |
 | Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | Slides - Código | 
 | Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | Enunciado - Ticket |
 </details>
