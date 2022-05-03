@@ -54,60 +54,19 @@
 | Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | [Enunciado](../../blob/master/Laboratorios/L2/L2.pdf)|
 </details>
 
-</details>
-<!--
-<details>
+
+<details open>
 <summary>Capítulo 3</summary>
 <br>
    
-| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 3        | Resumen parte a      |  Zoom      | Lunes 04/10 | 4      | [Sesión materia](https://youtu.be/wR_o-_U7bCY) - [Sesión ejercicios](https://youtu.be/-rr-5M2Cct8)- [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
-| 3        | Taller parte a       |  Discord   | Lunes 04/10  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
-| 3        | Ayudantía parte a    |  Zoom      | Jueves 07/10 | 5      | [Video](https://youtu.be/O3wW2yHqaWc) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ayudant%C3%ADa%20T3a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ayudantia.ipynb) |
-| 3        | Resumen parte b      |  Youtube   |              | -      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Material](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
-| 3        | Ejercicios parte b   |  Youtube   |              | -      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
-| 3        | Taller parte b       |  Discord   | Jueves 14/10 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
-| 3        | Ayudantía parte b    |  -         |              | -      | [Código](../../blob/main/Ayudantías/T3b/T3b_pauta.ipynb) |
-| -        | Semana receso        |  -         | -            | -      | - |
-| 3        | Actividad práctica   |  Discord   | Lunes 25/10  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A3/A3.pdf) |
-| 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | [Video](https://youtu.be/NSbtzwGJKE8) - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
-
+| Instancia         | Tópico                    | Fecha        | Recursos |
+| :-:               | :-:                       | :-:          | :-:      |
+| Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%203/Parte%20a) - Ejercicio - Ticket |
+| Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - Código| 
+| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%203/Parte%20b) - Ejercicio - Ticket |
+| Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | Slides - Código | 
+| Laboratorio 3     |                           |              | Enunciado |
 </details>
-
-<details open>
-<summary>Capítulo 4</summary>
-<br>
-   
-| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 4        | Resumen parte a      |  Youtube   | -            | -      | [Video](https://youtu.be/wzNrd-3q65s) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20a) |
-| 4        | Taller parte a       |  Discord   | Jueves 04/11 | 5      | [Enunciado](../../blob/main/Talleres/T4a/T4a.pdf) |
-| 4        | Ayudantía parte a    |  -         | Jueves 04/11 | 5      | [Código](../../blob/main/Ayudantías/T4a/T4a_pauta.ipynb) |
-| 4        | Resumen parte b      |  Híbrida   | Lunes 08/11  | 4      | [Video resumen](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) - [Video ejercicios](https://youtu.be/S4a-Xk354l8) |
-| 4        | Taller parte b       |  Híbrida   | Lunes 08/11  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
-| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | [Video](https://youtu.be/X82W764JsBo) - [Código](../../blob/main/Ayudantías/T4b/T4b_pauta.ipynb) |
-| 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
-
-</details>
-
-
-<details open>
-<summary>Capítulo 5</summary>
-<br>
-   
-| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a (hasta 1:16:04)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%205/Parte%20a/Slides/01%20Herramientas%20Avanzadas%20de%20SIG.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Video ejercicios](https://youtu.be/elEgV_bKo90)|
-| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | [Enunciado](../../blob/main/Talleres/T5a/T5a.pdf) |
-| 5        | Ayudantía parte a    |  Zoom      | Jueves 25/11 | 5      | Código |
-| 5        | Resumen parte b (1:17:04 - 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) - [Video ejercicios](https://youtu.be/d9-ZiOU6Xvc)|
-| 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | [Enunciado](../../blob/main/Talleres/T5b/T5b.pdf) |
-| 5        | Ayudantía parte b    |  Zoom      | Jueves 02/12 | 5      | [Video](https://youtu.be/aYc4N8yvxYg) - Código |
-| 5        | Actividad práctica   |  Híbrida   | Lunes 06/12  | 4-5    | Enunciado |
-
-</details>
--->   
 
 
 
