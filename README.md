@@ -17,19 +17,20 @@
 
 
 ## Calendario 
+
 <details>
+   
 <summary>Capítulo 0</summary>
-<br>
 
 | Instancia | Fecha         | Recursos |
 | :-:       | :-:           | :-:      |
 | Cátedra   | Lunes 07/03   | [Slides](../../blob/master/Material%20de%20clases/Introducción.pdf) |
+   
 </details>
 
 
 <details>
 <summary>Capítulo 1</summary>
-<br>
 
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
@@ -37,13 +38,12 @@
 | Ayudantía parte a | POO                  | Jueves 17/03  | [Slides](../../blob/master/Ayudantías/C1a/Ayudantía%20C1a.pdf) - [Código](../../tree/master/Ayudantías/C1a)| 
 | Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
 | Ayudantía parte b | Estructuras de datos | Jueves 24/03  | [Slides](../../blob/master/Ayudantías/C1b/Ayudantía%20C1b.pdf) - [Código](../../tree/master/Ayudantías/C1b) | 
-| Laboratorio 1     |                      | Lunes 28/03 a Lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28)|
+| Laboratorio 1     |                      | Lunes 28/03 a Lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28) - [Solución](../../blob/master/Pautas/L1/Pauta%20L1.ipynb)|
 </details>
 
 
 <details open>
 <summary>Capítulo 2</summary>
-<br>
    
 | Instancia         | Tópico                            | Fecha        | Recursos |
 | :-:               | :-:                               | :-:          | :-:      |
@@ -57,7 +57,6 @@
 
 <details open>
 <summary>Capítulo 3</summary>
-<br>
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
