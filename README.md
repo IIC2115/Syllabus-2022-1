@@ -42,7 +42,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 2</summary>
    
 | Instancia         | Tópico                            | Fecha        | Recursos |
