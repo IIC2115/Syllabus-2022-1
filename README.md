@@ -60,7 +60,7 @@
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%203/Parte%20a) - Ejercicio - Ticket |
+| Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20a/Notebooks/01%20-%20SIG.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20a/Ejemplos/ejemplos_C3a.ipynb) - [Ejercicios]() - [Ticket](https://forms.gle/eSPbZUJoQZwdogj9A) |
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - Código| 
 | Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%203/Parte%20b) - Ejercicio - Ticket |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | Slides - Código | 
