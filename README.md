@@ -61,8 +61,8 @@
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
 | Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20a/Notebooks/01%20-%20SIG.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20a/Ejemplos/ejemplos_C3a.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20a/Ejercicios/C3a.pdf) - [Ticket](https://forms.gle/eSPbZUJoQZwdogj9A) |
-| Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - Código| 
-| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%203/Parte%20b) - Ejercicio - Ticket |
+| Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
+| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Material](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - Ejercicios - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | Slides - Código | 
 | Laboratorio 3     |                           |              | Enunciado |
 </details>
