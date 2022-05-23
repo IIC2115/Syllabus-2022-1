@@ -51,7 +51,7 @@
 | Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
 | Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - [Ejercicio](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b/Ejercicios/C2b.pdf) - [Ticket](https://forms.gle/mRfY2QitYiKLG7v17) |
 | Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | [Slides](../../blob/master/Ayudantías/C2b/Ayudantía%20C2b.pdf) - [Código](../../tree/master/Ayudantías/C2b) | 
-| Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | [Enunciado](../../blob/master/Laboratorios/L2/L2.pdf)|
+| Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | [Enunciado](Laboratorios/L2/L2.pdf)|
 </details>
 
 
@@ -64,7 +64,7 @@
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
 | Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Material](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
-| Laboratorio 3     |                           | Lunes 23/05 a Jueves 02/06 | Enunciado |
+| Laboratorio 3     |                           | Lunes 23/05 a Jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
 </details>
 
 
