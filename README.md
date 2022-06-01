@@ -55,16 +55,28 @@
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 3</summary>
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
 | Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20a/Notebooks/01%20-%20SIG.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20a/Ejemplos/ejemplos_C3a.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20a/Ejercicios/C3a.pdf) - [Ticket](https://forms.gle/eSPbZUJoQZwdogj9A) |
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
-| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Material](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
+| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
 | Laboratorio 3     |                           | Lunes 23/05 a Jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
+</details>
+
+<details open>
+<summary>Capítulo 4</summary>
+   
+| Instancia         | Tópico                    | Fecha        | Recursos |
+| :-:               | :-:                       | :-:          | :-:      |
+| Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - Slides - Ejemplos - Ejercicios - Ticket |
+| Ayudantía parte a | Bases de datos relacionales y Web scraping | Jueves 09/06 | Slides - Código | 
+| Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - Slides - Ejemplos - Ejercicios - Ticket |
+| Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | Slides - Código | 
+| Laboratorio 3     |                           | Lunes 20/06 a Jueves 30/06 | Enunciado |
 </details>
 
 
