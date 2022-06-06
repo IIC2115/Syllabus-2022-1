@@ -72,7 +72,7 @@
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - Slides - Ejemplos - Ejercicios - Ticket |
+| Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - Ejercicios - [Ticket](https://forms.gle/C7Pag3BwKDFiSgrA9) |
 | Ayudantía parte a | Bases de datos relacionales y Web scraping | Jueves 09/06 | Slides - Código | 
 | Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - Slides - Ejemplos - Ejercicios - Ticket |
 | Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | Slides - Código | 
