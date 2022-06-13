@@ -73,10 +73,10 @@
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
 | Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20a/Ejercicios/C4a.pdf) - [Ticket](https://forms.gle/C7Pag3BwKDFiSgrA9) |
-| Ayudantía parte a | Bases de datos relacionales y Web scraping | Jueves 09/06 | Slides - Código | 
-| Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%204/Parte%20b/Ejemplos/ejemplos_C4b.ipynb) - Ejercicios - [Ticket](https://forms.gle/y7WKb94WZ8UkA9oN6) |
+| Ayudantía parte a | Bases de datos relacionales | Jueves 09/06 | [Slides](Ayudantías/C4a/Ayudantia%20C4a.pdf) - [Código](Ayudantías/C4a/Solución%20C4a.ipynb) | 
+| Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%204/Parte%20b/Ejemplos/ejemplos_C4b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20b/Ejercicios/C4b.pdf) - [Ticket](https://forms.gle/y7WKb94WZ8UkA9oN6) |
 | Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | Slides - Código | 
-| Laboratorio 3     |                           | Lunes 20/06 a Jueves 30/06 | Enunciado |
+| Laboratorio 4     |                        | Lunes 20/06 a Jueves 30/06 | Enunciado |
 </details>
 
 
