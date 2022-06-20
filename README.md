@@ -38,7 +38,7 @@
 | Ayudantía parte a | POO                  | Jueves 17/03  | [Slides](../../blob/master/Ayudantías/C1a/Ayudantía%20C1a.pdf) - [Código](../../tree/master/Ayudantías/C1a)| 
 | Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
 | Ayudantía parte b | Estructuras de datos | Jueves 24/03  | [Slides](../../blob/master/Ayudantías/C1b/Ayudantía%20C1b.pdf) - [Código](../../tree/master/Ayudantías/C1b) | 
-| Laboratorio 1     |                      | Lunes 28/03 a Lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28) - [Solución](../../blob/master/Pautas/L1/Pauta%20L1.ipynb)|
+| Laboratorio 1     |                      | Lunes 28/03 a lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28) - [Solución](../../blob/master/Pautas/L1/Pauta%20L1.ipynb)|
 </details>
 
 
@@ -51,7 +51,7 @@
 | Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
 | Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - [Ejercicio](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b/Ejercicios/C2b.pdf) - [Ticket](https://forms.gle/mRfY2QitYiKLG7v17) |
 | Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | [Slides](../../blob/master/Ayudantías/C2b/Ayudantía%20C2b.pdf) - [Código](../../tree/master/Ayudantías/C2b) | 
-| Laboratorio 2     |                                   | Lunes 25/04 a Lunes 02/05 | [Enunciado](Laboratorios/L2/L2.pdf)|
+| Laboratorio 2     |                                   | Lunes 25/04 a lunes 02/05 | [Enunciado](Laboratorios/L2/L2.pdf)|
 </details>
 
 
@@ -64,7 +64,7 @@
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
 | Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
-| Laboratorio 3     |                           | Lunes 23/05 a Jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
+| Laboratorio 3     |                           | Lunes 23/05 a jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
 </details>
 
 <details open>
@@ -75,8 +75,8 @@
 | Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20a/Ejercicios/C4a.pdf) - [Ticket](https://forms.gle/C7Pag3BwKDFiSgrA9) |
 | Ayudantía parte a | Bases de datos relacionales | Jueves 09/06 | [Slides](Ayudantías/C4a/Ayudantia%20C4a.pdf) - [Código](Ayudantías/C4a/Solución%20C4a.ipynb) | 
 | Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%204/Parte%20b/Ejemplos/ejemplos_C4b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20b/Ejercicios/C4b.pdf) - [Ticket](https://forms.gle/y7WKb94WZ8UkA9oN6) |
-| Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | Slides - Código | 
-| Laboratorio 4     |                        | Lunes 20/06 a Jueves 30/06 | Enunciado |
+| Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | [Slides](Ayudantías/C4b/Ayudantia%20C4b.pdf) - [Código](Ayudantías/C4b/Solución%20C4b.ipynb) | 
+| Laboratorio 4     |                        | Lunes 20/06 a domingo 03/07 | [Enunciado](Laboratorios/L4/L4.pdf) |
 </details>
 
 
